@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\c#_console\tip_donusmleri\tip_donusmleri\bin\Debug\tip_donusmleri.exe.config
+C:\Users\Administrator\Desktop\c#_console\tip_donusmleri\tip_donusmleri\bin\Debug\tip_donusmleri.exe
+C:\Users\Administrator\Desktop\c#_console\tip_donusmleri\tip_donusmleri\bin\Debug\tip_donusmleri.pdb
+C:\Users\Administrator\Desktop\c#_console\tip_donusmleri\tip_donusmleri\obj\Debug\tip_donusmleri.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\c#_console\tip_donusmleri\tip_donusmleri\obj\Debug\tip_donusmleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\c#_console\tip_donusmleri\tip_donusmleri\obj\Debug\tip_donusmleri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#_console\tip_donusmleri\tip_donusmleri\obj\Debug\tip_donusmleri.exe
+C:\Users\Administrator\Desktop\c#_console\tip_donusmleri\tip_donusmleri\obj\Debug\tip_donusmleri.pdb
