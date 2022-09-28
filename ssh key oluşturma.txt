@@ -1,0 +1,10 @@
+ssh-keygen
+
+cd ~/.ssh
+ 
+ls
+
+cat id_rsa.pub
+
+
+ 
